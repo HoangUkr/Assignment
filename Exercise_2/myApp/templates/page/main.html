@@ -1,0 +1,16 @@
+{% extends "page/base.html" %}
+
+{% block title %}
+Input page
+{% endblock %}
+        {% block content %}
+        <div>
+            <form action="multiply">
+                <label>Number A:</label>
+                <input id="number_a" type="number" name="number_a">
+                <label>Number B:</label>
+                <input id="number_b" type="number" name="number_b">
+                <input type="submit" value="Calculate">
+            </form>
+        </div>
+        {% endblock %}

@@ -1,0 +1,28 @@
+input[type=number] {
+    width: 100%;
+    padding: 12px 20px;
+    display: inline-block;
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+}
+
+input[type=submit] {
+    width: 100%;
+    background-color: #ff0000;
+    color: #ffffff;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: thin;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: #af504c;
+}
+
+div{
+    border-radius: 5px;
+    background-color: #edf2ef;
+    padding: 20px;
+}

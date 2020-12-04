@@ -1,0 +1,6 @@
+Мова програмування: Python, version 3.8.3
+IDE: Visual Studio Code, version 1.51.1
+FrameWork для другої задачі: Django, version 3.1.3
+Ресурси: 
+1) Python Django Tutorial, howkteam.vn
+2) CSS Tutorials, W3School.com
